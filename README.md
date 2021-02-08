@@ -1,6 +1,6 @@
 # Pharmacy management system in C
 
-#OBJECTIVE
+# OBJECTIVE
 
 – Maintaining correct database by providing an option to update the drugs in stock. 
 
@@ -12,6 +12,6 @@
 
 –To create an alert system for the pharmacist when medicines go out of stock or expire
 
-#LIBRARIES
+# LIBRARIES
 
 3 header libraries were created with functions needed for the customer and the pharmacist user path and included in the main.c program.
