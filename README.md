@@ -1,5 +1,6 @@
 # Pharmacy Management System in C
 
+> Mini Project for "Programming in C" course in sem 2
 # Objective
 
 - Maintaining correct database by providing an option to update the drugs in stock. 
